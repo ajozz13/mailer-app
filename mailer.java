@@ -7,7 +7,7 @@ public class mailer{
 
 	public static final String SMTPServer = "smtp.gmail.com";
 	public static final int SMTPPort = 465;
-	public static final String email_usern = "ibcmobtxf@gmail.com";
+	public static final String email_usern = "******@gmail.com";
 	public static final String pass = "******";
 	public static String subject = "Incomming Message";
 	public static String content = "test";
